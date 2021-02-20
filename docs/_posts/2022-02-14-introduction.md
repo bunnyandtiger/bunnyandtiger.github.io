@@ -15,7 +15,7 @@ recipe:
     1. Let Tiger and Bunny discover each other
     2. Let them travel, eat, discover, grow together.
     3. Let them be each other's cheeseburger
-    4. Good for 1 lifetime
+    4. Good for one lifetime
 ---
 
 This blog currently is a love letter and appreciation note from Tiger to Bunny for all of the cooking recipes and notes that they've been able to discover and create together. Tiger is hoping that this grows into a catalog of many recipes that we can collect together, which along with pictures can create something like both a picture book and a recipe book for the recipes that we've been able to try together. This is a private website, no search engines can index this.
