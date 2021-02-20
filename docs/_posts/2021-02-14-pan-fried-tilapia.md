@@ -1,9 +1,9 @@
 ---
-date: 2021-02-14
+date: 2021-02-14 00:00:00
 title: Pan-Fried Tilapia
 categories:
   - Fish
-featured_image: /images/food/tilapia.jpg
+featured_image: /uploads/whole-foods-tilapia.jpg
 recipe:
   servings: 2 filets
   prep: 10 minutes
@@ -19,14 +19,17 @@ recipe:
     * Pepper
     * Oregano
     * Parsley Flakes
-
-  directions_markdown: |-
+  directions_markdown: >-
 
     1. Defrost the Tilapia in Lukewarm Water
-    2. Spray non-stick skillet with PAM spray
-    3. Cover both sides of Tilapia with light salt, pepper, oregano, and parsley flakes
-    4. Cook on medium for 6 minutes on both sides. Do not move too much while cooking.
 
+    2. Spray non-stick skillet with PAM spray
+
+    3. Cover both sides of Tilapia with light salt, pepper, oregano, and parsley
+    flakes
+
+    4. Cook on medium for 6 minutes on both sides. Do not move too much while
+    cooking.
 ---
 
 This recipe has been modified to use no butter - instead all of the fat comes from the PAM spray (and maybe some from the fish?)
