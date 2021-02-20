@@ -3,7 +3,7 @@ date: 2021-02-18 00:00:00
 title: Cardamom Spice Cookies
 categories:
   - Baking
-featured_image: /uploads/cardamom-sprice-cookies.png
+featured_image: /images/food/cardamom-sprice-cookies.png
 recipe:
   servings: 8 Cookies?
   prep: 20 minutes
