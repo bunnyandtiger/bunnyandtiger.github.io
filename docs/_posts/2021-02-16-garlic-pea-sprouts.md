@@ -3,7 +3,7 @@ date: 2021-02-16 00:00:00
 title: Garlic Pea Sprouts
 categories:
   - Veggies
-featured_image: /images/food/garlic-pea-sprouts.png
+featured_image: /images/food/garlic-pea-sprouts.jpg
 recipe:
   servings: 2 servings
   prep: 10 minutes
