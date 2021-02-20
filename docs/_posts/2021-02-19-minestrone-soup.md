@@ -3,7 +3,7 @@ date: 2021-02-19 00:00:00
 title: Minestrone Soup
 categories:
   - Soups
-featured_image: /images/food/cardamom-sprice-cookies.png
+featured_image: /images/food/minestrone-soup.png
 recipe:
   servings: 8 Cookies?
   prep: 20 minutes
