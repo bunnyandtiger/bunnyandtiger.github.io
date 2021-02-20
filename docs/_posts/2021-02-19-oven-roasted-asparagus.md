@@ -31,4 +31,4 @@ recipe:
     have browned.
 ---
 
-Easy and delicious (although will make your pee smell funny\!)
+Easy and delicious. Will lead to interesting smells.
