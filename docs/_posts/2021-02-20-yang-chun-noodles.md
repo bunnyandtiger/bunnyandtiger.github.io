@@ -3,7 +3,7 @@ date: 2021-02-20 00:00:00
 title: Yang Chun Noodles
 categories:
   - Soups
-featured_image:
+featured_image: /uploads/ec4c01ee-f80f-4fb1-a7d4-b19b55983a28.jpg
 recipe:
   servings: 2 servings
   prep: 10 minutes
