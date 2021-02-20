@@ -3,7 +3,7 @@ date: 2021-02-14 00:00:00
 title: Pan-Fried Tilapia
 categories:
   - Fish
-featured_image: /uploads/whole-foods-tilapia.jpg
+featured_image: /images/food/tilapia.jpg
 recipe:
   servings: 2 filets
   prep: 10 minutes
