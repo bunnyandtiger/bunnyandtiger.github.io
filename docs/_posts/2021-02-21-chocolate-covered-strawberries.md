@@ -10,8 +10,8 @@ recipe:
   cook: 10 minutes (fridge)
   ingredients_markdown: |-
     * 1 box of strawberries
-    * 1/4 of pistachios (chopped)
-    * Half block of chocolate
+    * 1/4 cup of pistachios (chopped)
+    * Half block of milk chocolate
   directions_markdown: >-
     1. Chop up chocolate into thick chunks (not thin sheets). Place immediately
     in bowl on top of a small pot of warm water (on low).
