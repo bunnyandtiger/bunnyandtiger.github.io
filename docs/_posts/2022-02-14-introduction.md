@@ -31,10 +31,10 @@ Tiger is very appreciative of course all of the delicious things that Bunny has 
 * The importance of fat and oil for flavor and for cooking, and how to properly regulate or control the amount so that you don't have too much (or too little). How salt makes things taste more like themselves. The importance of acid as well to cut through certain flavors.
 * How grocery shopping is a fun adventure and how specific grocery stores are better for certain items.
 
-![](images/trader-joes-haul.jpg)
+![]({{site.baseurl}}/images/trader-joes-haul.jpg)
 
 Tiger is still a novice, but he feels like he is learning and is growing, and is happy about a certain limited set of recipes that he feels like he can recreate now (tilapia, asparagus, green beans, yang chun mian). He aspires to be more like bunny and be able to learn more about a large and diverse set of recipes, and he is thankful every day that Bunny lets Tiger be next to him to assist in helping eating the world.
 
-![](uploads/long-island-pies.jpg)
+![]({{site.baseurl}}/uploads/long-island-pies.jpg)
 
 I think some of the cookings and learnings are applicable in real life too. I have the freshest, bestest Bunny. I want us to stick together, and I know that I need to be attentive and precise on many things in our relationship. We can add some zing and pizazz and spice to many parts of our relationship, but the most important thing is that the core ingredients are strong. Sometimes we take it slow, sometimes we take it fast, but the most important thing is that we take it together, and make sure to get a little bit of everything in each bite. I look forward to a lifetime of noms with you.
