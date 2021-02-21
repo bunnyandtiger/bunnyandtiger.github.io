@@ -18,21 +18,20 @@ recipe:
     * 1/2 tsp of sugar
     * 1/2 tsp of sesame oil
   directions_markdown: >-
-    * Boil 2.5 cups of chicken broth in small pot, and water in large pot
+    &nbsp;
 
 
-    * Boil 1 bundle of noodles on medium for 3 minutes in water, then boil it in
-    chicken stock for 3 minutes
+    1. Boil 2.5 cups of chicken broth in small pot, and water in large pot
 
+    2. Boil 1 bundle of noodles on medium for 3 minutes in water, then boil it
+    in chicken stock for 3 minutes
 
-    * Boil egg 8 minutes in shell in water to become soft-boiled. Don't put bok
+    3. Boil egg 8 minutes in shell in water to become soft-boiled. Don't put bok
     choy in water while egg is boiling
 
+    4. Boil 8 bok choy for 6 minutes in noodle water, not chicken broth.
 
-    * Boil 8 bok choy for 6 minutes in noodle water, not chicken broth.
-
-
-    * Add sauce (soy sauce, sugar, sesame oil) and one stick of green onion.
+    5. Add sauce (soy sauce, sugar, sesame oil) and one stick of green onion.
 ---
 
 Delicious\! Based on https://omnivorescookbook.com/soy-sauce-noodles
