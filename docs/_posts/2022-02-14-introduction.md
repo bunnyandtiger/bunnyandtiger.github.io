@@ -31,7 +31,7 @@ Tiger is very appreciative of of course all of the delicious things that Bunny h
 * The importance of fat and oil for flavor and for cooking, and how to properly regulate or control the amount so that you don't have too much (or too little). How salt makes things taste more like themselves. The importance of acid as well to cut through certain flavors.
 * How grocery shopping is a fun adventure and how specific grocery stores are better for certain items.
 
-![](uploads/trader-joes-haul.jpg){: width="3088" height="2320"}
+![](images/trader-joes-haul.jpg){: width="3088" height="2320"}
 
 Tiger is still a novice, but he feels like he is learning and is growing, and is happy about a certain limited set of recipes that he feels like he can recreate now (tilapia, asparagus, green beans, yang chun mian). He aspires to be more like bunny and be able to learn more about a large and diverse set of recipes, and he is thankful every day that Bunny lets Tiger be next to him to assist in helping eating the world.
 
