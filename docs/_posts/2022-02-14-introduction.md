@@ -20,7 +20,7 @@ recipe:
 
 This blog currently is a love letter and appreciation note from Tiger to Bunny for all of the cooking recipes and notes that they've been able to discover and create together. Tiger is hoping that this grows into a catalog of many recipes that we can collect together, which along with pictures can create something like both a picture book and a recipe book for the recipes that we've been able to try together. This is a private website, no search engines can index this.
 
-![](https:/i.imgur.com/mWnB2xW.jpg)
+![](https://i.imgur.com/mWnB2xW.jpg)
 
 Tiger is very appreciative of course all of the delicious things that Bunny has fed Tiger over the years - I'm reminded of the sticker where Huhu eats the items that Huhu's friend feeds him. But across the longer term, Tiger is very appreciative of all of the techniques that Bunny has taught Tiger over a long period of time, this is just a select list:
 
@@ -31,10 +31,10 @@ Tiger is very appreciative of course all of the delicious things that Bunny has 
 * The importance of fat and oil for flavor and for cooking, and how to properly regulate or control the amount so that you don't have too much (or too little). How salt makes things taste more like themselves. The importance of acid as well to cut through certain flavors.
 * How grocery shopping is a fun adventure and how specific grocery stores are better for certain items.
 
-![](images/trader-joes-haul.jpg){: width="3088" height="2320"}
+![](images/trader-joes-haul.jpg)
 
 Tiger is still a novice, but he feels like he is learning and is growing, and is happy about a certain limited set of recipes that he feels like he can recreate now (tilapia, asparagus, green beans, yang chun mian). He aspires to be more like bunny and be able to learn more about a large and diverse set of recipes, and he is thankful every day that Bunny lets Tiger be next to him to assist in helping eating the world.
 
-![](uploads/long-island-pies.jpg){: width="4032" height="3024"}
+![](uploads/long-island-pies.jpg)
 
 I think some of the cookings and learnings are applicable in real life too. I have the freshest, bestest Bunny. I want us to stick together, and I know that I need to be attentive and precise on many things in our relationship. We can add some zing and pizazz and spice to many parts of our relationship, but the most important thing is that the core ingredients are strong. Sometimes we take it slow, sometimes we take it fast, but the most important thing is that we take it together, and make sure to get a little bit of everything in each bite. I look forward to a lifetime of noms with you.
