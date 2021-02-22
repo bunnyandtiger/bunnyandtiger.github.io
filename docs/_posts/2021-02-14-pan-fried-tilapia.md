@@ -20,13 +20,12 @@ recipe:
     * Oregano
     * Parsley Flakes
   directions_markdown: >-
-
     1. Defrost the Tilapia in Lukewarm Water
 
     2. Spray non-stick skillet with PAM spray
 
     3. Cover both sides of Tilapia with light salt, pepper, oregano, and parsley
-    flakes
+    flakes. only salt one side
 
     4. Cook on medium for 6 minutes on both sides. Do not move too much while
     cooking.
