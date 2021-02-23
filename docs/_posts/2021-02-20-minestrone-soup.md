@@ -1,5 +1,5 @@
 ---
-date: 2021-02-19 00:00:00
+date: 2021-02-20 00:00:00
 title: Minestrone Soup
 categories:
   - Soups
