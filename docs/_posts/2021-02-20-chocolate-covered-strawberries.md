@@ -1,5 +1,5 @@
 ---
-date: 2021-02-21 00:00:00
+date: 2021-02-20 00:00:00
 title: Chocolate-Covered Strawberries
 categories:
   - Desserts
