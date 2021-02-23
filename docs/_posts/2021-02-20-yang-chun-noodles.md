@@ -34,4 +34,4 @@ recipe:
     5. Add sauce (soy sauce, sugar, sesame oil) and one stick of green onion.
 ---
 
-Delicious\! Based on https://omnivorescookbook.com/soy-sauce-noodles
+Delicious, with a very precise recipe that Tiger can make. Based on [https://omnivorescookbook.com/soy-sauce-noodles](https://omnivorescookbook.com/soy-sauce-noodles)
