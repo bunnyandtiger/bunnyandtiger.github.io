@@ -1,7 +1,7 @@
 ---
 title: Chilled Spicy Tofu
 categories:
-  - Cold Appetizers
+  - Cold-Appetizers
 date: 2021-02-23 00:00:00
 featured_image: /uploads/chilled-spicy-tofu.jpg
 recipe:
