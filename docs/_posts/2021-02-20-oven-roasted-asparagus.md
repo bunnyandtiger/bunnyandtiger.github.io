@@ -29,6 +29,9 @@ recipe:
     7. Put them on the bottom rack at 400 degrees for 30 min. Does not need to
     preheat. When it's done, they should be slightly wrinkly and some of the
     foil should have browned.
+
+    8. Some of the asparagus should have browned too. The greenest ones are the
+    undercooked ones.
 ---
 
 Easy and delicious. Will lead to interesting smells.
