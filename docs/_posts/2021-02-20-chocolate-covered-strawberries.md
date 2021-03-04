@@ -13,17 +13,19 @@ recipe:
     * 1/4 cup of pistachios (chopped)
     * Half block of milk chocolate
   directions_markdown: >-
-    1. Chop up chocolate into thick chunks with the large, duller chefs knife
-    (not thin sheets). Place immediately in bowl on top of a small pot of warm
-    water (on low).
+    1. Chop up chocolate into chunks (not thin sheets) with the large, duller
+    chefs knife. Place immediately in bowl on top of a small pot of warm water
+    (on low). Stir chocolate with one side of spatula only, not both.
 
-    2. Cut off stem of strawberries, and cut them in half. Dry the strawberries
+    2. Chop up toppings (pistachio) with same knife and cutting board.
+
+    3. Cut off stem of strawberries, and cut them in half. Dry the strawberries
     with a paper towel.
 
-    3. Dip bottom 3/4 of strawberry in chocolate carefully, then place on baking
+    4. Dip bottom 3/4 of strawberry in chocolate carefully, then place on baking
     tray lined with parchment paper.
 
-    4. Immediately sprinkle toppings (chopped pistachio, coconut shreds)
+    5. Immediately sprinkle toppings (chopped pistachio, coconut shreds)
 ---
 Much better (and less expensive) than the store-bought ones. This recipe allows you to control the amount of chocolate you use and choose the toppings that you want to put\!
 
