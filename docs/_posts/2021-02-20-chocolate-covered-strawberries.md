@@ -22,10 +22,13 @@ recipe:
     3. Cut off stem of strawberries, and cut them in half. Dry the strawberries
     with a paper towel.
 
-    4. Dip bottom 3/4 of strawberry in chocolate carefully, then place on baking
+    4. SETUP: Parchment-paper-lined tray, then dish of strawberries, and then
+    boiling pot of water.
+
+    5. Dip bottom 3/4 of strawberry in chocolate carefully, then place on baking
     tray lined with parchment paper.
 
-    5. Immediately sprinkle toppings (chopped pistachio, coconut shreds)
+    6. Immediately sprinkle toppings (chopped pistachio, coconut shreds)
 ---
 Much better (and less expensive) than the store-bought ones. This recipe allows you to control the amount of chocolate you use and choose the toppings that you want to put\!
 
