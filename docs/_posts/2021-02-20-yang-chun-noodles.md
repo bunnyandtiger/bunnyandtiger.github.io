@@ -13,7 +13,7 @@ recipe:
     * 1 bundle of noodles
     * 1 egg
     * 8 bok choy
-    * 1 stick of green onion
+    * 2 stick of green onion
     * 2 tbsp of soy sauce
     * 1/2 tsp of sugar
     * 1/2 tsp of sesame oil
@@ -31,7 +31,6 @@ recipe:
 
     4. Boil 8 bok choy for 6 minutes in noodle water, not chicken broth.
 
-    5. Add sauce (soy sauce, sugar, sesame oil) and one stick of green onion.
+    5. Add sauce (soy sauce, sugar, sesame oil) and two stick of green onion.
 ---
-
 Delicious, with a very precise recipe that Tiger can make. Based on [https://omnivorescookbook.com/soy-sauce-noodles](https://omnivorescookbook.com/soy-sauce-noodles)
