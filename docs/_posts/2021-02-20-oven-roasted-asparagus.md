@@ -17,7 +17,8 @@ recipe:
 
     2. Take one bunch of asparagus and wash them thoroughly.
 
-    3. Cut off one inch from bottom, cut off the white parts.
+    3. Cut off one inch from bottom, cut off the white parts. Do not trim too
+    much though.
 
     4. Dry them thoroughly and put them on a baking tray with aluminum foil
 
