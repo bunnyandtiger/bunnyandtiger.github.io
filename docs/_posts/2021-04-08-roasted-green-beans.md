@@ -23,5 +23,5 @@ recipe:
 
     4. Sprikle with Garlic Powder, Paprika, Salt, and Pepper.
 
-    5. Put on the bottom rack for 30 minutes.
+    5. Put on the bottom rack for 30 minutes (or 35 if not preheated)
 ---
