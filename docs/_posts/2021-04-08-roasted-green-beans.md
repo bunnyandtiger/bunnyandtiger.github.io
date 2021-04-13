@@ -14,7 +14,7 @@ recipe:
     * Paprika, Garlic Powder
     * Salt, Pepper
   directions_markdown: |-
-    1. Wash and trim 1-2 pounds of green beans
+    1. Wash and trim 1-1.5 pounds of green beans. Do not trim off too much.
     2. Place on baking tray with alumimum foil
     3. Put 1 tbsp of Olive Oil on it
     4. Sprikle with Garlic Powder, Paprika, Salt, and Pepper.
