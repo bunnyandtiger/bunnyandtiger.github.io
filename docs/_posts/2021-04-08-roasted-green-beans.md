@@ -18,5 +18,5 @@ recipe:
     2. Place on baking tray with alumimum foil
     3. Put 1 tbsp of Olive Oil on it
     4. Sprikle with Garlic Powder, Paprika, Salt, and Pepper.
-    5. Put on the bottom rack for 29 minutes.
+    5. Put on the bottom rack for 30 minutes.
 ---
