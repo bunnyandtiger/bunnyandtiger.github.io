@@ -14,6 +14,8 @@ recipe:
     * Paprika, Garlic Powder
     * Salt, Pepper
     * &nbsp;white sesame seeds
+    * 1 tbsp chili garlic sauce
+    * 1 tbsp light mayo&nbsp;
   directions_markdown: >-
     1. Wash and trim 1 1/8 pounds (18oz) &nbsp;of green beans. Do not trim off
     too much.
@@ -27,4 +29,7 @@ recipe:
     5. &nbsp;Garnish with white sesame seeds
 
     6. Put on the bottom rack for 30 minutes (or 35 if not preheated)
+
+    7. Serve with 1 tbsp of chili garlic sauce mixed with 1 tbsp of light
+    mayo&nbsp;
 ---
