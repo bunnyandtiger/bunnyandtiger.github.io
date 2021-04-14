@@ -13,6 +13,7 @@ recipe:
     * 1 tbsp of olive oil
     * Paprika, Garlic Powder
     * Salt, Pepper
+    * &nbsp;white sesame seeds
   directions_markdown: >-
     1. Wash and trim 1 1/8 pounds (18oz) &nbsp;of green beans. Do not trim off
     too much.
@@ -23,5 +24,7 @@ recipe:
 
     4. Sprikle with Garlic Powder, Paprika, Salt, and Pepper.
 
-    5. Put on the bottom rack for 30 minutes (or 35 if not preheated)
+    5. &nbsp;Garnish with white sesame seeds
+
+    6. Put on the bottom rack for 30 minutes (or 35 if not preheated)
 ---
