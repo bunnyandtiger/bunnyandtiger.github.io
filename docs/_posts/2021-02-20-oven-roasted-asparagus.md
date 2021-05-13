@@ -20,7 +20,8 @@ recipe:
     3. Cut off one inch from bottom, cut off the white parts. Do not trim too
     much though.
 
-    4. Dry them thoroughly and put them on a baking tray with aluminum foil
+    4. Dry them thoroughly (with paper towel, not dish towel as that leaks
+    fibers) and put them on a baking tray with aluminum foil
 
     5. Coat them with 1/2 tbsp of olive oil, moving them around with hands to
     coat them very evenly.
