@@ -20,7 +20,8 @@ recipe:
     * Oregano
     * Parsley Flakes
   directions_markdown: >-
-    1. Defrost the Tilapia in Lukewarm Water
+    1. Defrost the Tilapia in Lukewarm Water. Not cold water. You need to make
+    sure it defrosts fully, or else the end result will taste fishy&nbsp;
 
     2. Spray non-stick skillet with PAM spray
 
@@ -30,5 +31,4 @@ recipe:
     4. Cook on medium for 6 minutes on both sides. Do not move too much while
     cooking.
 ---
-
 This recipe has been modified to use no butter - instead all of the fat comes from the PAM spray (and maybe some from the fish?)
