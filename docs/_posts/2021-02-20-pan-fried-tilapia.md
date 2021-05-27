@@ -29,6 +29,6 @@ recipe:
     flakes. only salt one side
 
     4. Cook on medium for 6 minutes on both sides. Do not move too much while
-    cooking.
+    cooking. Press down edges to make sure they cook too.
 ---
 This recipe has been modified to use no butter - instead all of the fat comes from the PAM spray (and maybe some from the fish?)
