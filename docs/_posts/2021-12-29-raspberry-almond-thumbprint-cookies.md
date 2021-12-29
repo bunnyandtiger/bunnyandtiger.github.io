@@ -2,7 +2,7 @@
 title: Raspberry Almond Thumbprint Cookies
 categories: Baking
 date: 2021-12-29 00:00:00
-featured_image: /uploads/269869470-308260794559385-705300887108947095-n.jpg
+featured_image: /uploads/269869470-308260794559385-705300887108947095-n-1.jpg
 recipe:
   servings: 15-16 cookies
   prep:
