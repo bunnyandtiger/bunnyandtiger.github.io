@@ -24,5 +24,5 @@ recipe:
     5. Make 1-inch balls.
     6. Make indent with thumb.&nbsp;
     7. Fill with jam.
-    8. Bake at 325 degrees for 15 minutes, until golden.
+    8. Bake at 325 degrees for 15 minutes, until very slightly golden.
 ---
