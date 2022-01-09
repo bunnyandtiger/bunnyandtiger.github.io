@@ -4,7 +4,7 @@ categories:
   - Baking
   - Desserts
 date: 2022-01-09 00:00:00
-featured_image:
+featured_image: /uploads/img-8005.jpg
 recipe:
   servings: Around 24-28 cookies
   prep:
