@@ -12,15 +12,17 @@ recipe:
     * 1/2 cup Unsalted Butter (Room Temperature)
     * 50g sugar
     * 1/2 tsp Almond Extract
-    * 1 egg/egg yolk
+    * 1 egg yolk
     * 1/4 tsp Baking Powder
     * Pinch of Salt
     * 1/3 cup Raspberry Jam
+
+    <quillbot-extension-portal></quillbot-extension-portal>
   directions_markdown: |-
     1. Cream butter and sugar.
     2. Add egg and almond extract.
     3. Add salt, baking powder, and flour and mix well.&nbsp;
-    4. Chill for 30 minutes (no more\!)
+    4. Chill for 30 minutes (no more!)
     5. Make 1-inch balls.
     6. Make indent with thumb.&nbsp;
     7. Fill with jam.
